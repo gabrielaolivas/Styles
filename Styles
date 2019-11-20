@@ -1,0 +1,9 @@
+<head>
+  <meta charset="UTF-8">
+  <title>Learning CSS </title>
+  <style>
+    body {
+      color: red;
+      }
+  </style>
+</head>
